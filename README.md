@@ -7,10 +7,10 @@ Once again, the goal is to improve my problem-solving skills, data structures kn
 The certificates I am able to achieve will be in the 'Certificates' folder
 
 ## Progress
-- Total Problems Solved: ??
-- Easy: ??
-- Medium: ??
-- Hard: ??
+- Total Problems Solved: 18
+- Easy: 15
+- Medium: 3
+- Hard: 0
 
 Languages
 - Python
