@@ -1,3 +1,4 @@
+-- Easy level Problem
 SELECT name
 FROM CITY
 WHERE population > 120000

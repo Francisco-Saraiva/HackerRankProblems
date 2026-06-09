@@ -1,3 +1,4 @@
+-- Easy level Problem
 SELECT name
 FROM STUDENTS
 WHERE marks > 75

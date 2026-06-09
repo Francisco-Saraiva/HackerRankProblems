@@ -1,3 +1,4 @@
+-- Medium level Problem
 SELECT
     CASE
         WHEN marks <= 69 THEN NULL # Using marks because grades aren't created
