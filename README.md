@@ -7,8 +7,8 @@ Once again, the goal is to improve my problem-solving skills, data structures kn
 The certificates I am able to achieve will be in the 'Certificates' folder
 
 ## Progress
-- Total Problems Solved: 39
-- Easy: 34
+- Total Problems Solved: 50
+- Easy: 45
 - Medium: 5
 - Hard: 0
 
