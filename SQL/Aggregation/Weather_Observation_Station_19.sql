@@ -1,7 +1,7 @@
 -- Medium Level Problem
 
 SELECT
-    ROUND(ABS(a-c) + ABS(b-d), 4) AS mh_dist
+    ROUND(SQRT(POWER((c-a),2) + POWER((d-b),2)), 4) AS eu_dist
 FROM (
     SELECT
         MIN(lat_n) AS a,
