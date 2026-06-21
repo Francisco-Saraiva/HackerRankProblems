@@ -1,17 +1,22 @@
-# HackerRankProblems
+- # ⚡ HackerRankProblems
 
-Similarly to the LeetCode repository, this one contains my solutions to HackerRank problems.
+Similarly to the LeetCode repository, this environment tracks my progress across HackerRank challenges, focusing on data structures, algorithmic efficiency, and advanced query design.
 
-Once again, the goal is to improve my problem-solving skills, data structures knowledge, and algorithmic thinking through consistent practice.
+The goal remains consistent: continuously pressure-test my technical logic, master diverse database paradigms, and refine my approach to computational complexity.
 
-The certificates I am able to achieve will be in the 'Certificates' folder.
+🏆 **Verification:** Official certificates earned throughout this track are prominently documented and stored inside the `Certificates` folder.
 
-## Progress
-- Total Problems Solved: 101
-- Easy: 79
-- Medium: 20
-- Hard: 2
+---
 
-Languages
-- Python
-- MySQL (PostgreSQL is not available)
+## 📊 Progress & Metrics
+
+* **Total Unique Problems Solved:** 101
+  * 🟢 **Easy:** 79
+  * 🟡 **Medium:** 20
+  * 🔴 **Hard:** 2
+
+### 💻 Language Breakdown
+*(Detailed problem metrics coming soon)*
+
+* 🐍 **Python:**
+* 🐬 **MySQL:**
