@@ -1,4 +1,4 @@
-- # ⚡ HackerRankProblems
+# ⚡ HackerRankProblems
 
 Similarly to the LeetCode repository, this environment tracks my progress across HackerRank challenges, focusing on data structures, algorithmic efficiency, and advanced query design.
 
