@@ -10,9 +10,9 @@ The goal remains consistent: continuously pressure-test my technical logic, mast
 
 ## 📊 Progress & Metrics
 
-* **Total Unique Problems Solved:** 145
-  * 🟢 **Easy:** 110
-  * 🟡 **Medium:** 32
+* **Total Unique Problems Solved:** 147
+  * 🟢 **Easy:** 111
+  * 🟡 **Medium:** 33
   * 🔴 **Hard:** 3
 
 ### 💻 Language Breakdown
