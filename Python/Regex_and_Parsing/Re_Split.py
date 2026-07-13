@@ -1,0 +1,6 @@
+# Easy Level Problem
+
+regex_pattern = r"\W"	# Do not delete 'r'.
+
+import re
+print("\n".join(re.split(regex_pattern, input())))
